@@ -1,0 +1,4 @@
+.scrollable-content::-webkit-scrollbar {
+    width: 0.1rem;
+  }
+  
