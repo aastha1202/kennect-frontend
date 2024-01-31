@@ -17,16 +17,10 @@ Welcome to the Kennect Task Frontend, an application that allows users to perfor
 
 ## Installation
 
-Follow the [Installation](#installation) section in the project's main README.md to set up the frontend.
+yarn install 
+yarn run dev - start the application 
 
 ## Usage
 
 Explore the various features of the frontend application. Sign up, create posts, comment on posts, and use the search functionality to find specific posts.
 
-## Contributing
-
-If you'd like to contribute to the project, please follow the [Contributing Guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
